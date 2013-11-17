@@ -11,7 +11,7 @@
 define: false, process: false, window: false */
 define([
 //>>excludeStart('excludeHbs', pragmas.excludeHbs)
-'handlebars', 'lodash', 'hbs/i18nprecompile', 'hbs/json2'
+'Handlebars', 'lodash', 'hbs/i18nprecompile', 'hbs/json2'
 //>>excludeEnd('excludeHbs')
 ], function (
 //>>excludeStart('excludeHbs', pragmas.excludeHbs)

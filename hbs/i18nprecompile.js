@@ -1,5 +1,5 @@
 //>>excludeStart('excludeAfterBuild', pragmas.excludeAfterBuild)
-define(['handlebars', "lodash"], function ( Handlebars, _ ) {
+define(['Handlebars', "lodash"], function ( Handlebars, _ ) {
 
   function replaceLocaleStrings ( ast, mapping, options ) {
     options = options || {};
